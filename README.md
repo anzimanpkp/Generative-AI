@@ -1,12 +1,6 @@
 Firebase SDK for Vertex AI Quickstart
 =========================================
 
-Introduction
-------------
-
-This is a sample app for the preview version of the Firebase Vertex AI SDK.
-This will not run if you don't have access to the preview.
-
 <!-- Introduction
 ------------
 
